@@ -38,3 +38,5 @@ if __name__ == "__main__":
         print("Message décrypté :", decrypted_message)
     else:
         print("Option invalide. Veuillez choisir soit '1' pour crypter, soit '2' pour décrypter.")
+
+# By ForkWeb
